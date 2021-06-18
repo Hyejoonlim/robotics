@@ -1,2 +1,2 @@
 # robotics
-Forward Kinematics, Robot Dynamics Equations, Sliding Mode Control and Tracking Control in MATLAB and Simulink
+Forward Kinematics, Robot Dynamics Equations, Sliding Mode Control(SMC) and Tracking Control in MATLAB and Simulink
