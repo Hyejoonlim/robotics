@@ -1,5 +1,5 @@
 %% Forward Kinematics
-%Geometric Parameters
+% Geometric Parameters
 l1 = 40; % Link 1
 l2 = 40; % Link 2
 l3 = 5; % End effector
